@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+:root{
+
+  --primary-Blue: hsl(223, 87%, 63%);
+
+  --secondary-Pale-Blue: hsl(223, 100%, 88%);
+  --secondary-Light-Red: hsl(354, 100%, 66%);
+
+  --neutral-Gray: hsl(0, 0%, 59%);
+  --neutral-Very-Dark-Blue: hsl(209, 33%, 12%);
+}
