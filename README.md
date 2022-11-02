@@ -1,5 +1,5 @@
 # Frontend Mentor - Ping coming soon page
-
+- [GitHub Pages](https://oanthonyg.github.io/ping-coming-soon-page/)
 ![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -54,7 +54,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://pages.github.com/)
+
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
